@@ -1,6 +1,6 @@
 import { Scanner } from '@yudiel/react-qr-scanner';
 import { useState } from 'react';
-import s from "./QrCodeScaner.module.css";
+import s from "./qrCodeScaner.module.css";
 import { SCAN_DATA } from './constants';
 
 
